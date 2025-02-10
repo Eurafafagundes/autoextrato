@@ -49,3 +49,8 @@ Salve o JSON das credenciais na pasta do projeto como credenciais.json.
 3️⃣ Processar um PDF de Extrato Bancário
 python atualizar_planilha.py
 O script irá ler os PDFs na pasta extratos/, categorizar os gastos e atualizar a planilha automaticamente.
+
+📡 Possíveis Melhorias
+✅ Automatizar importação via API Bancária
+✅ Criar um Dashboard interativo no Power BI
+✅ Enviar notificações dos gastos no WhatsApp/Telegram
